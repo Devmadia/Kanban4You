@@ -61,7 +61,9 @@ A full-stack web development kanban board for multiple users and project managem
 
  Visit pur GitHubs: [GildedRose](https://github.com/GildedRose), 
  [Devmadia](https://github.com/Devmadia),
- [Ottiemobile](https://github.com/Ottiemobile)
+ [Ottiemobile](https://github.com/Ottiemobile),
+ [ericy98](https://github.com/ericy98),
+ [osadenaike](https://github.com/osadenaike)
 
   If you have any additional questions not answered here or wish to contact me regarding developments, please email us at 
   [thedevmadia@gmail.com](mailto:thedevmadia@gmail.com)
